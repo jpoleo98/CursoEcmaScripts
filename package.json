@@ -11,5 +11,6 @@
     "ecmaScripts"
   ],
   "author": "José Poleo <jose.poleo.2a@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
