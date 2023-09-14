@@ -1,0 +1,15 @@
+{
+  "name": "ecmascripts",
+  "version": "1.0.0",
+  "description": "Curso EcmaScripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ecmaScripts"
+  ],
+  "author": "José Poleo <jose.poleo.2a@gmail.com>",
+  "license": "MIT"
+}
